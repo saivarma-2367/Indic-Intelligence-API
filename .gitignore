@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# HuggingFace cache
+.cache/
+
+# Temporary files
+temp_*
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
